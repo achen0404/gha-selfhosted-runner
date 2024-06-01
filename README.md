@@ -1,7 +1,5 @@
 
 
-# Set Up 
-
 ### Install Pulumi
 `npm install -g pulumi`
 
